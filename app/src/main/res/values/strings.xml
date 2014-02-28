@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="twitter_posted">Tweet was posted!</string>
+    <string name="twitter_failed_to_post">Tweet wan\'t posted</string>
+
+</resources>
